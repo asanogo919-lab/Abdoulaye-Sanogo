@@ -1,89 +1,59 @@
-👋 Hello, I'm Abdoulaye SANOGO
-<img src="/img/profil.jpg" alt="profil" width="300"/>
+<img src="/img/profil.jpg" alt="profil" style="width:120px; border-radius:50%; margin-bottom:1em; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" />
 
+# 👋 Abdoulaye SANOGO
 
-Ingénieur Réseaux, Sécurité & Cloud | AWS Cloud Technology Consultant | Support FAI
+**Ingénieur Réseaux, Sécurité & Cloud**  
+_AWS Cloud Technology Consultant | Support FAI_
 
-🎯 Ingénieur Systèmes & Réseaux formé au Master Ingénierie Réseaux, Sécurité et Télécoms, avec une expérience solide dans :
+---
 
-l’exploitation et l’optimisation de réseaux complexes (FTTH, VOIP, IPTV) 
+### 🚀 Mes domaines d’expertise
 
-Abdoulaye-SANOGO-Resume
+- **Réseaux & Systèmes** : Linux, Windows Server, VLAN, VPN, DHCP, DNS, OSPF, EIGRP
+- **Cloud AWS** : IAM, VPC, EC2, S3, CloudFront, Load Balancer, Auto Scaling, API Design
+- **Sécurité** : SIEM, IDS, analyse de paquets, conformité & frameworks (CSF NIST)
+- **Outils & Dev** : Python, SQL, Linux CLI, ServiceNow
+- **Support & Exploitation** : diagnostic avancé, résolution incidents, optimisation process
 
-la sécurité informatique (SIEM, IDS, analyse réseau)
+---
 
-le cloud computing AWS (IAM, VPC, EC2, S3, CloudFront, autoscaling)
+### 🛠️ Projets en cours
 
-l’administration Linux & Windows Server
+**1. Scénarios AWS pratiques**
+  - Migration infrastructures vers AWS (cas réels)
+  - Architecture VPC multi-tier
+  - Migration bases de données / application web
+  - Workflow de vérification de contenus
+  - Environnements reproductibles pour consultant cloud débutant
 
-la gestion d’incidents, le diagnostic et le pilotage opérationnel.
+**2. Outils Réseaux & Support FAI**
+  - Analyse réseau (Python + Scapy)
+  - Simulations FTTH : du NRO au modem utilisateur
+  - Dashboards de monitoring
 
-Actuellement ingénieur support chez ALTEN Maroc, j'assure la continuité de service de réseaux critiques tout en pilotant une équipe technique et en améliorant les processus internes. 
+**3. Projets Web / Mobile**
+  - Idées innovantes (Apps sociales, CAN Maroc, transports, etc.)
 
-Abdoulaye-SANOGO-Resume
+---
 
-Je suis passionné par le cloud, la cybersécurité et l’architecture IT, et je construis progressivement un portfolio orienté projets réels, scénarios AWS, outils réseaux et automatisation.
+### 🎯 Ce que je recherche
 
-🚀 Mes domaines d’expertise
+- Opportunités cloud / sécurité / réseau
+- Collaboration projets AWS / DevOps
+- Contributions open-source Réseaux & DevOps
+- Projets éducation, mobilité, plateformes internes
 
-Réseaux & Systèmes : Linux, Windows Server, VLAN, VPN, DHCP, DNS, OSPF, EIGRP
+---
 
-Cloud AWS : IAM, VPC, EC2, S3, CloudFront, Load Balancer, Auto Scaling, API Design
+### 📫 Me contacter
 
-Sécurité : SIEM, IDS, analyse de paquets, conformité & frameworks (CSF NIST)
+- 📍 Fès – Maroc (mobilité internationale)
+- 📧 **asanogo919@gmail.com**
+- 🔗 [LinkedIn](https://linkedin.com/in/abdoulaye-sanogo-05287223b)
+- 📱 +212 632 652 261
 
-Outils & Dev : Python, SQL, Linux CLI, ServiceNow
+---
 
-Support & Exploitation : diagnostic avancé, résolution incidents, optimisation process
+> 💡 _« Il y a plus de courage que de talent derrière la plupart des réussites. »_  
+> Persévérance, audace et discipline = succès.
 
-🛠️ Projets en cours sur mon GitHub
-📌 1. Scénarios AWS pratiques
-
-Migration d'infrastructures vers AWS, inspirées de cas réels :
-
-Architecture VPC multi-tier
-
-Migration Base de Données / Application Web
-
-Workflow de vérification de contenus pour une plateforme interne
-
-Environnements reproductibles pour consultant cloud débutant
-
-📌 2. Outils pour réseaux & support FAI
-
-Scripts et mini-projets basés sur mon quotidien :
-
-Analyse réseau (Python + Scapy)
-
-Simulations FTTH : du NRO au modem utilisateur
-
-Dashboards de monitoring simples
-
-📌 3. Projets Web / Mobile
-
-Idées innovantes destinées aux jeunes (Apps sociales, CAN Maroc, transports, etc.)
-
-🎯 Ce que je recherche
-
-Je suis ouvert à :
-
-des opportunités cloud / sécurité / réseau
-
-des collaborations sur des projets AWS
-
-des contributions open-source en Réseaux & DevOps
-
-des projets liés à l’éducation, la mobilité ou aux plateformes internes d’entreprise
-
-📫 Me contacter
-
-📍 Basé à Fès – Maroc (mobilité internationale)
-📧 asanogo919@gmail.com
-
-🔗 LinkedIn : linkedin.com/in/abdoulaye-sanogo-05287223b
-📱 +212 632 652 261
-
-💡 Citation qui me guide
-
-« Il y a plus de courage que de talent derrière la plupart des réussites. »
-Je crois profondément que le succès vient de la persévérance, de l’audace et de la discipline.
