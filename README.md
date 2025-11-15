@@ -1,126 +1,88 @@
-🌐 Abdoulaye SANOGO — Portfolio
+👋 Hello, I'm Abdoulaye SANOGO
+![Profil](/img/profil.jpg)
 
-<!-- Remplace l’URL ci-dessus par le lien de ta photo de profil -->
-👋 À propos de moi
+Ingénieur Réseaux, Sécurité & Cloud | AWS Cloud Technology Consultant | Support FAI
 
-Je suis Ingénieur Réseaux, Sécurité & Cloud, diplômé d’un Master en Ingénierie Réseaux, Sécurité et Télécoms, avec plus de 2 ans d’expérience en support IT, infrastructures réseau et sécurité.
+🎯 Ingénieur Systèmes & Réseaux formé au Master Ingénierie Réseaux, Sécurité et Télécoms, avec une expérience solide dans :
 
-Actuellement Ingénieur Support FAI chez Alten, je travaille sur des environnements complexes : FTTH, VOIP, IPTV, supervision réseau, et sécurité des infrastructures.
-Passionné par le cloud, j'ai récemment obtenu la certification AWS Cloud Technology Consultant.
+l’exploitation et l’optimisation de réseaux complexes (FTTH, VOIP, IPTV) 
 
-📍 Basé à Fès, Maroc — disponible pour missions internationales
+Abdoulaye-SANOGO-Resume
 
-🔗 Liens utiles
+la sécurité informatique (SIEM, IDS, analyse réseau)
 
-📧 Email : asanogo919@gmail.com
+le cloud computing AWS (IAM, VPC, EC2, S3, CloudFront, autoscaling)
 
-📞 Téléphone : +212 632 652 261
+l’administration Linux & Windows Server
 
-💼 LinkedIn : linkedin.com/in/abdoulaye-sanogo-05287223b
+la gestion d’incidents, le diagnostic et le pilotage opérationnel.
 
-🌍 Portfolio GitHub Pages : [Ajouter ton lien GitHub Pages]
+Actuellement ingénieur support chez ALTEN Maroc, j'assure la continuité de service de réseaux critiques tout en pilotant une équipe technique et en améliorant les processus internes. 
 
-🛠️ Compétences Techniques
-Systèmes & Réseaux
+Abdoulaye-SANOGO-Resume
 
-Linux, Windows Server
+Je suis passionné par le cloud, la cybersécurité et l’architecture IT, et je construis progressivement un portfolio orienté projets réels, scénarios AWS, outils réseaux et automatisation.
 
-VLAN, VPN, DHCP, DNS
+🚀 Mes domaines d’expertise
 
-OSPF, EIGRP
+Réseaux & Systèmes : Linux, Windows Server, VLAN, VPN, DHCP, DNS, OSPF, EIGRP
 
-Supervision & maintenance réseau
+Cloud AWS : IAM, VPC, EC2, S3, CloudFront, Load Balancer, Auto Scaling, API Design
 
-Cloud Computing
+Sécurité : SIEM, IDS, analyse de paquets, conformité & frameworks (CSF NIST)
 
-AWS : IAM, VPC, EC2, S3, CloudFront
+Outils & Dev : Python, SQL, Linux CLI, ServiceNow
 
-Architecture scalable : Auto Scaling, Load Balancer
+Support & Exploitation : diagnostic avancé, résolution incidents, optimisation process
 
-API REST, Console AWS
+🛠️ Projets en cours sur mon GitHub
+📌 1. Scénarios AWS pratiques
 
-Sécurité Informatique
+Migration d'infrastructures vers AWS, inspirées de cas réels :
 
-SIEM
+Architecture VPC multi-tier
 
-Analyse de paquets
+Migration Base de Données / Application Web
 
-NIST CSF
+Workflow de vérification de contenus pour une plateforme interne
 
-IDS / Détection d’intrusions
+Environnements reproductibles pour consultant cloud débutant
 
-Outils
+📌 2. Outils pour réseaux & support FAI
 
-ServiceNow
+Scripts et mini-projets basés sur mon quotidien :
 
-Linux, Python, SQL
+Analyse réseau (Python + Scapy)
 
-Git & GitHub
+Simulations FTTH : du NRO au modem utilisateur
 
-💼 Expérience Professionnelle
-Ingénieur Support FAI — Alten, Maroc
+Dashboards de monitoring simples
 
-01/2025 – Aujourd’hui
+📌 3. Projets Web / Mobile
 
-Diagnostic avancé sur incidents réseau FTTH, VOIP, IPTV
+Idées innovantes destinées aux jeunes (Apps sociales, CAN Maroc, transports, etc.)
 
-Supervision et pilotage d’une équipe technique
+🎯 Ce que je recherche
 
-Analyse proactive et optimisation de la continuité de service
+Je suis ouvert à :
 
-Technicien Réseau — AGEROUTE, Bamako
+des opportunités cloud / sécurité / réseau
 
-03/2021 – 08/2021
+des collaborations sur des projets AWS
 
-Installation & maintenance des équipements réseaux
+des contributions open-source en Réseaux & DevOps
 
-Mise en place de VLAN Cisco → disponibilité réseau 95%
+des projets liés à l’éducation, la mobilité ou aux plateformes internes d’entreprise
 
-Gestion GLPI, ateliers de sensibilisation sécurité
+📫 Me contacter
 
-Déploiement automatisé WDS
+📍 Basé à Fès – Maroc (mobilité internationale)
+📧 asanogo919@gmail.com
 
-🎓 Diplômes & Certifications
+🔗 LinkedIn : linkedin.com/in/abdoulaye-sanogo-05287223b
+📱 +212 632 652 261
 
-AWS Cloud Technology Consultant (2025)
+💡 Citation qui me guide
 
-Master 2 – Ingénierie Réseaux & Sécurité (2021–2023) – Supmanagement Fès
-
-Licence 3 – Ingénierie Réseaux & Télécom (2019–2021) – Supmanagement Bamako
-
-CCNA Routing & Switching (2019 & 2021)
-
-🚀 Projets (à venir)
-
-Voici quelques espaces prêts pour accueillir tes futurs projets :
-
-🔧 Projet 1 — [Titre du projet]
-
-➡️ Lien : [URL_GITHUB_PROJET]
-Description : Ajouter une description de ton projet.
-
-☁️ Projet 2 — [Titre du projet Cloud/AWS]
-
-➡️ Lien : [URL_GITHUB_PROJET]
-Description : Déploiement, automatisation, infrastructure…
-
-🔒 Projet 3 — [Projet Sécurité / Réseau]
-
-➡️ Lien : [URL_GITHUB_PROJET]
-Description : Analyse réseau, SIEM, architecture sécurisée…
-
-🌍 Langues
-
-Français : Maîtrise parfaite
-
-Anglais : Niveau professionnel (lecture technique, échanges)
-
-🤝 Collaboration
-
-Je suis ouvert aux opportunités :
-✔️ Projets cloud
-✔️ Administration & sécurité réseau
-✔️ Support technique avancé
-✔️ Déploiements IT & migration vers le cloud
-
-N’hésite pas à me contacter ! 🙌
+« Il y a plus de courage que de talent derrière la plupart des réussites. »
+Je crois profondément que le succès vient de la persévérance, de l’audace et de la discipline.
