@@ -1,2 +1,2 @@
 # Abdoulaye-Sanogo
-Portfolio Analyste en Cybersécurité
+Portfolio Cybersecurity Analyst
