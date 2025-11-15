@@ -1,5 +1,6 @@
 👋 Hello, I'm Abdoulaye SANOGO
-![Profil](/img/profil.jpg)
+<img src="/img/profil.jpg" alt="profil" width="300"/>
+
 
 Ingénieur Réseaux, Sécurité & Cloud | AWS Cloud Technology Consultant | Support FAI
 
