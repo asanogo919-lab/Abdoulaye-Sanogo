@@ -2,7 +2,7 @@
 
 # 👋 Bienvenue sur le portfolio de Abdoulaye SANOGO
 
-**Analyste en Cybersécurité | Ingénieur Réseau & Cloud | Consultant AWS**
+**Ingénieur Réseau, Sécurite & Cloud **
 
 ---
 
