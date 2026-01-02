@@ -7,15 +7,17 @@
 ---
 
 ## 👤 À propos
-[cite_start]Ingénieur Systèmes & Réseaux avec plus de 2 ans d'expérience[cite: 7]. [cite_start]Actuellement chez **Alten**, je gère des infrastructures complexes (FTTH, VoIP)[cite: 8]. Mon parcours m'a appris à garder mon sang-froid en situation critique : que ce soit pour résoudre un incident FAI ou sur un terrain de foot comme latéral droit, je suis celui sur qui l'équipe compte pour protéger et réagir vite.
+Ingénieur Réseaux et Sécurité junior, je suis déterminé à mettre mes compétences au service de la cyberdéfense. Récemment certifié Google Cybersecurity, j'ai acquis les bases fondamentales en analyse de logs, Python, SQL et l'utilisation de SIEM/IDS.
+Mon expérience actuelle chez ALTEN en tant qu'Ingénieur Support FAI m'a permis de développer une grande rigueur dans la gestion des incidents réseau et le pilotage technique. Mon passé dans le service client (Orange) est ma force : il m'a appris l'écoute active, l'empathie et la capacité à garder mon sang-froid face à des situations complexes.
+Curieux et technophile, je consacre mon temps libre à tester des outils d'IA pour optimiser mon apprentissage. Sur le terrain de foot, j'occupe le poste de latéral droit : je suis celui sur qui l'équipe peut compter pour surveiller, protéger et réagir vite.
 
 ---
 
 ## 🛠️ Compétences Techniques
 | Sécurité & Cloud | Réseaux & Systèmes | Outils & Dev |
-| :--- | :--- | :--- |
-| [cite_start]SIEM, IDS, NIST CSF [cite: 27] | [cite_start]VLAN, VPN, OSPF, EIGRP [cite: 27] | [cite_start]Python, SQL, Linux CLI [cite: 27] |
-| [cite_start]AWS (EC2, S3, VPC, IAM) [cite: 27] | [cite_start]Windows & Linux Server [cite: 27] | [cite_start]ServiceNow, Wireshark [cite: 27] |
+| :-: | :-: | :-: |
+| SIEM, IDS, NIST CSF  | VLAN, VPN, OSPF, EIGRP  | Python, SQL, Linux CLI  |
+| AWS (EC2, S3, VPC, IAM)  | Windows & Linux Server  | ServiceNow, Wireshark  |
 
 ---
 
@@ -35,13 +37,12 @@
 ---
 
 ## 💼 Expériences Phares
-* [cite_start]**Ingénieur Support FAI - Alten** (2025 - Présent) : Diagnostic incident FTTH et pilotage technique[cite: 11, 14, 15].
-* [cite_start]**Technicien Réseau - AGEROUTE** : Optimisation VLAN et gestion GLPI (Disponibilité réseau à 95%)[cite: 18, 19, 21, 22].
-* **Service Client** : Expertise en communication et gestion du stress (Orange/Concentrix).
+* **Ingénieur Support FAI - Alten** (2025 - Présent) : Diagnostic incident FTTH et pilotage technique.
+* **Service Client & Televente - Concentrix** : Expertise en communication et gestion du stress (Orange).
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & Diplômes
 * **Google Cybersecurity Professional Certificate**
-* [cite_start]**AWS Cloud Technology Consultant** [cite: 25]
-* [cite_start]**Master en Ingénierie Réseaux & Sécurité** [cite: 25]
+* **AWS Cloud Technology Consultant** 
+* **Master en Ingénierie Réseaux & Sécurité** 
