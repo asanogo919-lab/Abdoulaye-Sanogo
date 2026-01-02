@@ -1,5 +1,5 @@
-# 🛡️ Abdoulaye SANOGO
-**Ingénieur Réseaux, Sécurité & Cloud** *Certifié Google Cybersecurity & AWS Cloud Consultant*
+<img src="https://asanogo919-lab.github.io/Abdoulaye-Sanogo/img/profil.jpg" alt="profil" style="width:120px; border-radius:50%; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" /> 
+*Certifié Google Cybersecurity & AWS Cloud Consultant*
 
 [LinkedIn](https://linkedin.com/in/abdoulaye-sanogo-05287223b) | [Email](mailto:asanogo919@gmail.com) | 📍 Fès, Maroc (International)
 
