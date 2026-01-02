@@ -1,58 +1,46 @@
-<img src="https://asanogo919-lab.github.io/Abdoulaye-Sanogo/img/profil.jpg" alt="profil" style="width:120px; border-radius:50%; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" />
+# 🛡️ Abdoulaye SANOGO
+**Ingénieur Réseaux, Sécurité & Cloud** *Certifié Google Cybersecurity & AWS Cloud Consultant*
 
-# 👋 Abdoulaye SANOGO
-
-**Ingénieur Réseaux, Sécurité & Cloud**  
-_AWS Cloud Technology Consultant | Support FAI_
+[LinkedIn](https://linkedin.com/in/abdoulaye-sanogo-05287223b) | [Email](mailto:asanogo919@gmail.com) | 📍 Fès, Maroc (International)
 
 ---
 
-### 🚀 Mes domaines d’expertise
-
-- **Réseaux & Systèmes** : Linux, Windows Server, VLAN, VPN, DHCP, DNS, OSPF, EIGRP
-- **Cloud AWS** : IAM, VPC, EC2, S3, CloudFront, Load Balancer, Auto Scaling, API Design
-- **Sécurité** : SIEM, IDS, analyse de paquets, conformité & frameworks (CSF NIST)
-- **Outils & Dev** : Python, SQL, Linux CLI, ServiceNow
-- **Support & Exploitation** : diagnostic avancé, résolution incidents, optimisation process
+## 👤 À propos
+[cite_start]Ingénieur Systèmes & Réseaux avec plus de 2 ans d'expérience[cite: 7]. [cite_start]Actuellement chez **Alten**, je gère des infrastructures complexes (FTTH, VoIP)[cite: 8]. Mon parcours m'a appris à garder mon sang-froid en situation critique : que ce soit pour résoudre un incident FAI ou sur un terrain de foot comme latéral droit, je suis celui sur qui l'équipe compte pour protéger et réagir vite.
 
 ---
 
-### 🛠️ Projets en cours
-
-**1. Scénarios AWS pratiques**
-  - Migration infrastructures vers AWS (cas réels)
-  - Architecture VPC multi-tier
-  - Migration bases de données / application web
-  - Workflow de vérification de contenus
-  - Environnements reproductibles pour consultant cloud débutant
-
-**2. Outils Réseaux & Support FAI**
-  - Analyse réseau (Python + Scapy)
-  - Simulations FTTH : du NRO au modem utilisateur
-  - Dashboards de monitoring
-
-**3. Projets Web / Mobile**
-  - Idées innovantes (Apps sociales, CAN Maroc, transports, etc.)
+## 🛠️ Compétences Techniques
+| Sécurité & Cloud | Réseaux & Systèmes | Outils & Dev |
+| :--- | :--- | :--- |
+| [cite_start]SIEM, IDS, NIST CSF [cite: 27] | [cite_start]VLAN, VPN, OSPF, EIGRP [cite: 27] | [cite_start]Python, SQL, Linux CLI [cite: 27] |
+| [cite_start]AWS (EC2, S3, VPC, IAM) [cite: 27] | [cite_start]Windows & Linux Server [cite: 27] | [cite_start]ServiceNow, Wireshark [cite: 27] |
 
 ---
 
-### 🎯 Ce que je recherche
+## 🧪 Laboratoires & Projets Cyber
+*C'est ici que je documente mes travaux pratiques et analyses techniques.*
 
-- Opportunités cloud / sécurité / réseau
-- Collaboration projets AWS / DevOps
-- Contributions open-source Réseaux & DevOps
-- Projets éducation, mobilité, plateformes internes
+### 📂 [LAB] Algorithme de mise à jour de fichiers (Python)
+**Objectif :** Automatiser la gestion des accès en filtrant une "allow-list" d'adresses IP.
+* **Compétences :** Python, Parsing de fichiers, Sécurité des accès.
+* [👉 Voir le détail du Lab](./labs/lab-python-security.md)
 
----
-
-### 📫 Me contacter
-
-- 📍 Fès – Maroc (mobilité internationale)
-- 📧 **asanogo919@gmail.com**
-- 🔗 [LinkedIn](https://linkedin.com/in/abdoulaye-sanogo-05287223b)
-- 📱 +212 632 652 261
+### 📂 [LAB] Analyse de trafic réseau avec Wireshark
+**Objectif :** Détection d'anomalies et analyse de protocoles (DNS, HTTP).
+* **Compétences :** Analyse de paquets, Diagnostic réseau.
+* [👉 Voir le détail du Lab](#) *(Lien à venir)*
 
 ---
 
-> 💡 _« Il y a plus de courage que de talent derrière la plupart des réussites. »_  
-> Persévérance, audace et discipline = succès.
+## 💼 Expériences Phares
+* [cite_start]**Ingénieur Support FAI - Alten** (2025 - Présent) : Diagnostic incident FTTH et pilotage technique[cite: 11, 14, 15].
+* [cite_start]**Technicien Réseau - AGEROUTE** : Optimisation VLAN et gestion GLPI (Disponibilité réseau à 95%)[cite: 18, 19, 21, 22].
+* **Service Client** : Expertise en communication et gestion du stress (Orange/Concentrix).
+
+---
+
+## 🎓 Certifications
+* **Google Cybersecurity Professional Certificate**
+* [cite_start]**AWS Cloud Technology Consultant** [cite: 25]
+* [cite_start]**Master en Ingénierie Réseaux & Sécurité** [cite: 25]
