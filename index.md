@@ -14,10 +14,10 @@ Curieux et technophile, je consacre mon temps libre à tester des outils d'IA po
 ---
 
 ## 🛠️ Compétences Techniques
-| Sécurité & Cloud | Réseaux & Systèmes | Outils & Dev |
-| :-: | :-: | :-: |
-| SIEM, IDS, NIST CSF  | VLAN, VPN, OSPF, EIGRP  | Python, SQL, Linux CLI  |
-| AWS (EC2, S3, VPC, IAM)  | Windows & Linux Server  | ServiceNow, Wireshark  |
+| Sécurité & Cloud        | Réseaux & Systèmes     | Outils et développement |
+|-------------------------|------------------------|-------------------------|
+| SIEM, IDS, NIST         | VLAN, VPN, OSPF, EIGRP | Python, SQL, Linux CLI  |
+| AWS (EC2, S3, VPC, IAM) | Windows & Linux Server | ServiceNow, Wireshark   |
 
 ---
 
@@ -36,13 +36,28 @@ Curieux et technophile, je consacre mon temps libre à tester des outils d'IA po
 
 ---
 
-## 💼 Expériences Phares
-* **Ingénieur Support FAI - Alten** (2025 - Présent) : Diagnostic incident FTTH et pilotage technique.
-* **Service Client & Televente - Concentrix** : Expertise en communication et gestion du stress (Orange).
+## 💼 Expériences Professionnelles
+
+### 📡 Ingénieur Support FAI | Alten Maroc
+*Janvier 2025 – Présent*
+* **Diagnostic & Résolution :** Expertise sur les incidents complexes liés aux réseaux FTTH et services associés (VOIP, IPTV).
+* **Pilotage Technique :** Coordination des interventions de techniciens terrain et optimisation des procédures d'exploitation.
+* **Garantie de Service :** Analyse proactive des infrastructures pour prévenir les dysfonctionnements et assurer la continuité de service.
+
+### 📞 Conseiller Expert Client (Orange & Sowee) | Concentrix
+* **Gestion de Crise :** Résolution de problématiques clients complexes sous haute pression, garantissant une satisfaction maximale.
+* **Expertise Vente & Négociation (EDF) :** Développement d'un portefeuille client via la commercialisation d'offres énergie (Électricité et Gaz) en B2C.
+* **Communication d'Influence :** Capacité d'écoute active et d'empathie, compétences essentielles pour la sensibilisation à la cybersécurité.
+* **Rigueur Procédurale :** Application stricte des normes de sécurité des données clients et des protocoles de conformité.
 
 ---
 
 ## 🎓 Certifications & Diplômes
-* **Google Cybersecurity Professional Certificate**
-* **AWS Cloud Technology Consultant** 
-* **Master en Ingénierie Réseaux & Sécurité** 
+
+* **AWS Cloud Technology Consultant** (AWS, Coursera) - 2025
+* **Google Cybersecurity Professional Certificate** - 2025
+* **Master 2 en Ingénierie Réseaux & Sécurité** - Supmanagement Maroc-Fès
+* **Licence 3 en Ingénierie Réseaux, Sécurité & Télécom** - Supmanagement Mali-Bamako
+* **CCNA Routing & Switching** (Fundamentals & Introduction)
+
+---
