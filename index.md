@@ -11,6 +11,12 @@
 Au lieu de lister mes compétences, voici comment je les applique concrètement.
 *C'est ici que je documente mes travaux pratiques et analyses techniques.*
 
+### ☁️ [LAB] Immersion AWS Cloud Quest
+**Objectif :** Résolution de problématiques d'infrastructure réelle dans un environnement Cloud simulé.
+* **Réalisations :** Déploiement de solutions de calcul (EC2), stockage (S3/EFS), et réseaux (VPC/ELB).
+* **Validation :** Certificat de complétion obtenu le 12 septembre 2025.
+* [👉 Voir les détails techniques et la certification](./labs/aws-cloud-quest.md)
+
 ### 📂 [LAB] Algorithme de mise à jour de fichiers (Python)
 **Objectif :** Automatiser la gestion des accès en filtrant une "allow-list" d'adresses IP.
 * **Compétences :** Python, Parsing de fichiers, Sécurité des accès.
@@ -20,7 +26,7 @@ Au lieu de lister mes compétences, voici comment je les applique concrètement.
 **Objectif :** Extraire des données de sécurité spécifiques (logs de connexion) pour identifier des menaces.
 * **Compétences :** SQL, Filtrage de données, Analyse de logs, Sécurité IAM.
 * [👉 Voir le détail du Lab](./labs/lab-sql-security.md)
-  
+
 ### 📂 [LAB] Analyse de trafic réseau avec Wireshark
 **Objectif :** Détection d'anomalies et analyse de protocoles (DNS, HTTP).
 * **Compétences :** Analyse de paquets, Diagnostic réseau.
@@ -30,28 +36,40 @@ Au lieu de lister mes compétences, voici comment je les applique concrètement.
 ---
 
 
-## 👤 À propos
-Ingénieur Réseaux et Sécurité junior, je suis déterminé à mettre mes compétences au service de la cyberdéfense. Récemment certifié Google Cybersecurity, j'ai acquis les bases fondamentales en analyse de logs, Python, SQL et l'utilisation de SIEM/IDS.
-Mon expérience actuelle chez ALTEN en tant qu'Ingénieur Support FAI m'a permis de développer une grande rigueur dans la gestion des incidents réseau et le pilotage technique. Mon passé dans le service client (Orange) est ma force : il m'a appris l'écoute active, l'empathie et la capacité à garder mon sang-froid face à des situations complexes.
-Curieux et technophile, je consacre mon temps libre à tester des outils d'IA pour optimiser mon apprentissage. Sur le terrain de foot, j'occupe le poste de latéral droit : je suis celui sur qui l'équipe peut compter pour surveiller, protéger et réagir vite.
-
-
----
-
-
 ## 💼 Expériences Professionnelles
 
 ### 📡 Ingénieur Support FAI | Alten Maroc
-*Janvier 2025 – Présent*
-* **Diagnostic & Résolution :** Expertise sur les incidents complexes liés aux réseaux FTTH et services associés (VOIP, IPTV).
-* **Pilotage Technique :** Coordination des interventions de techniciens terrain et optimisation des procédures d'exploitation.
-* **Garantie de Service :** Analyse proactive des infrastructures pour prévenir les dysfonctionnements et assurer la continuité de service.
+*Janvier 2025 – Présent (Fès, Maroc)*
+* **Interface Technique :** Pivot entre les clients et les techniciens de terrain.
+* **Gestion d'Incidents :** Diagnostic et résolution de pannes sur réseaux FTTH (VOIP, IPTV).
+* **Pilotage :** Coordination des interventions et respect des SLA.
 
-### 📞 Conseiller Expert Client (Orange & Sowee) | Concentrix
-* **Gestion de Crise :** Résolution de problématiques clients complexes sous haute pression, garantissant une satisfaction maximale.
-* **Expertise Vente & Négociation (EDF) :** Développement d'un portefeuille client via la commercialisation d'offres énergie (Électricité et Gaz) en B2C.
-* **Communication d'Influence :** Capacité d'écoute active et d'empathie, compétences essentielles pour la sensibilisation à la cybersécurité.
-* **Rigueur Procédurale :** Application stricte des normes de sécurité des données clients et des protocoles de conformité.
+### 📞 Conseiller Expert Client | Concentrix
+*Juin 2023 – Janvier 2025 (Fès, Maroc)*
+* **Communication de Crise :** Gestion de clients en situation d'insatisfaction sous haute pression.
+* **Analyse 360° :** Diagnostic des besoins pour proposer des solutions techniques adaptées.
+
+### 🍽️ Serveur | Restaurant La Maison Céleste
+*Avril 2022 – Juin 2022 (Fès, Maroc)*
+* **Résilience :** Gestion du service dans un environnement à forte affluence, exigeant réactivité et endurance.
+
+### 🛣️ Technicien Réseau | AGEROUTE
+*Mars 2021 – Août 2021 (Bamako, Mali)*
+* **Optimisation :** Augmentation de la disponibilité réseau à 95% via VLAN (Cisco).
+* **Maintenance :** Gestion du parc informatique et déploiement automatisé via WDS.
+
+### 💻 Maintenance & Vente Informatique | Indépendant
+*2019 – 2020*
+* **Support :** Dépannage matériel et conseil commercial personnalisé.
+
+---
+
+## 💡 Atouts & Philosophie de Carrière
+Mon parcours est guidé par une conviction : **un bon ingénieur doit comprendre l'humain autant que la machine.**
+
+* **Polyvalence & Rigueur :** Chaque expérience, qu'il s'agisse du service en restauration ou de la vente, a forgé ma discipline, ma résilience et mon sens du résultat.
+* **Communication de terrain :** Mon passé en relation client est un atout majeur pour la cybersécurité, notamment pour la sensibilisation des utilisateurs et la gestion de crises.
+* **Apprentissage Continu :** Je transforme chaque défi en opportunité d'apprentissage, comme le prouvent mes certifications récentes en Cloud et Cybersécurité.
 
 ---
 
@@ -62,5 +80,3 @@ Curieux et technophile, je consacre mon temps libre à tester des outils d'IA po
 * **Master 2 en Ingénierie Réseaux & Sécurité** - Supmanagement Maroc-Fès
 * **Licence 3 en Ingénierie Réseaux, Sécurité & Télécom** - Supmanagement Mali-Bamako
 * **CCNA Routing & Switching** (Fundamentals & Introduction)
-
----
