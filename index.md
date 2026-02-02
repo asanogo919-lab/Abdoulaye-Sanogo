@@ -6,22 +6,9 @@
 
 ---
 
-## 👤 À propos
-Ingénieur Réseaux et Sécurité junior, je suis déterminé à mettre mes compétences au service de la cyberdéfense. Récemment certifié Google Cybersecurity, j'ai acquis les bases fondamentales en analyse de logs, Python, SQL et l'utilisation de SIEM/IDS.
-Mon expérience actuelle chez ALTEN en tant qu'Ingénieur Support FAI m'a permis de développer une grande rigueur dans la gestion des incidents réseau et le pilotage technique. Mon passé dans le service client (Orange) est ma force : il m'a appris l'écoute active, l'empathie et la capacité à garder mon sang-froid face à des situations complexes.
-Curieux et technophile, je consacre mon temps libre à tester des outils d'IA pour optimiser mon apprentissage. Sur le terrain de foot, j'occupe le poste de latéral droit : je suis celui sur qui l'équipe peut compter pour surveiller, protéger et réagir vite.
 
----
-
-## 🛠️ Compétences Techniques
-| Sécurité & Cloud        | Réseaux & Systèmes     | Outils et développement |
-|-------------------------|------------------------|-------------------------|
-| SIEM, IDS, NIST         | VLAN, VPN, OSPF, EIGRP | Python, SQL, Linux CLI  |
-| AWS (EC2, S3, VPC, IAM) | Windows & Linux Server | ServiceNow, Wireshark   |
-
----
-
-## 🧪 Laboratoires & Projets Cyber
+## 🚀 Réalisations & Labos Techniques
+Au lieu de lister mes compétences, voici comment je les applique concrètement.
 *C'est ici que je documente mes travaux pratiques et analyses techniques.*
 
 ### 📂 [LAB] Algorithme de mise à jour de fichiers (Python)
@@ -29,12 +16,28 @@ Curieux et technophile, je consacre mon temps libre à tester des outils d'IA po
 * **Compétences :** Python, Parsing de fichiers, Sécurité des accès.
 * [👉 Voir le détail du Lab](./labs/lab-python-security.md)
 
+### 📂 [LAB] Appliquer des filtres aux requêtes SQL
+**Objectif :** Extraire des données de sécurité spécifiques (logs de connexion) pour identifier des menaces.
+* **Compétences :** SQL, Filtrage de données, Analyse de logs, Sécurité IAM.
+* [👉 Voir le détail du Lab](./labs/lab-sql-security.md)
+  
 ### 📂 [LAB] Analyse de trafic réseau avec Wireshark
 **Objectif :** Détection d'anomalies et analyse de protocoles (DNS, HTTP).
 * **Compétences :** Analyse de paquets, Diagnostic réseau.
 * [👉 Voir le détail du Lab](#) *(Lien à venir)*
 
+
 ---
+
+
+## 👤 À propos
+Ingénieur Réseaux et Sécurité junior, je suis déterminé à mettre mes compétences au service de la cyberdéfense. Récemment certifié Google Cybersecurity, j'ai acquis les bases fondamentales en analyse de logs, Python, SQL et l'utilisation de SIEM/IDS.
+Mon expérience actuelle chez ALTEN en tant qu'Ingénieur Support FAI m'a permis de développer une grande rigueur dans la gestion des incidents réseau et le pilotage technique. Mon passé dans le service client (Orange) est ma force : il m'a appris l'écoute active, l'empathie et la capacité à garder mon sang-froid face à des situations complexes.
+Curieux et technophile, je consacre mon temps libre à tester des outils d'IA pour optimiser mon apprentissage. Sur le terrain de foot, j'occupe le poste de latéral droit : je suis celui sur qui l'équipe peut compter pour surveiller, protéger et réagir vite.
+
+
+---
+
 
 ## 💼 Expériences Professionnelles
 
