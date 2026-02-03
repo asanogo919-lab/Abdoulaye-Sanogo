@@ -27,10 +27,11 @@ Au lieu de lister mes compétences, voici comment je les applique concrètement.
 * **Compétences :** SQL, Filtrage de données, Analyse de logs, Sécurité IAM.
 * [👉 Voir le détail du Lab](./labs/lab-sql-security.md)
 
-### 📂 [LAB] Analyse de trafic réseau avec Wireshark
-**Objectif :** Détection d'anomalies et analyse de protocoles (DNS, HTTP).
-* **Compétences :** Analyse de paquets, Diagnostic réseau.
-* [👉 Voir le détail du Lab](#) *(Lien à venir)*
+### 🌐 [LAB] Conception Réseau & Sécurité (IBM)
+**Objectif :** Concevoir une infrastructure segmentée pour une entreprise et implémenter des règles de filtrage de trafic.
+* **Réalisations :** Design de sous-réseaux (VLAN), calcul de masques de sous-réseau (VLSM), analyse Wireshark et configuration de pare-feu.
+* **Projet certifiant :** Réalisé dans le cadre de la certification IBM "Computer Networks and Network Security".
+* [👉 Voir le rapport technique et les diagrammes](./labs/lab-network-design.md)
 
 
 ---
