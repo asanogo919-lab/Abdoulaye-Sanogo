@@ -8,24 +8,29 @@
 
 
 ## 🚀 Réalisations & Labos Techniques
+
 Au lieu de lister mes compétences, voici comment je les applique concrètement.
 *C'est ici que je documente mes travaux pratiques et analyses techniques.*
+
 
 ### ☁️ [LAB] Immersion AWS Cloud Quest
 **Objectif :** Résolution de problématiques d'infrastructure réelle dans un environnement Cloud simulé.
 * **Réalisations :** Déploiement de solutions de calcul (EC2), stockage (S3/EFS), et réseaux (VPC/ELB).
 * **Validation :** Certificat de complétion obtenu le 12 septembre 2025.
-* [👉 Voir les détails techniques et la certification](./labs/aws-cloud-quest.md)
+* [👉 Voir les détails techniques et la certification](./labs/lab-aws-cloud-quest.md)
+
 
 ### 📂 [LAB] Algorithme de mise à jour de fichiers (Python)
 **Objectif :** Automatiser la gestion des accès en filtrant une "allow-list" d'adresses IP.
 * **Compétences :** Python, Parsing de fichiers, Sécurité des accès.
 * [👉 Voir le détail du Lab](./labs/lab-python-security.md)
 
+
 ### 📂 [LAB] Appliquer des filtres aux requêtes SQL
 **Objectif :** Extraire des données de sécurité spécifiques (logs de connexion) pour identifier des menaces.
 * **Compétences :** SQL, Filtrage de données, Analyse de logs, Sécurité IAM.
 * [👉 Voir le détail du Lab](./labs/lab-sql-security.md)
+
 
 ### 🌐 [LAB] Conception Réseau & Sécurité (IBM)
 **Objectif :** Concevoir une infrastructure segmentée pour une entreprise et implémenter des règles de filtrage de trafic.
@@ -34,7 +39,9 @@ Au lieu de lister mes compétences, voici comment je les applique concrètement.
 * [👉 Voir le rapport technique et les diagrammes](./labs/lab-network-design.md)
 
 
+
 ---
+
 
 
 ## 💼 Expériences Professionnelles
@@ -65,6 +72,7 @@ Au lieu de lister mes compétences, voici comment je les applique concrètement.
 
 ---
 
+
 ## 💡 Atouts & Philosophie de Carrière
 Mon parcours est guidé par une conviction : **un bon ingénieur doit comprendre l'humain autant que la machine.**
 
@@ -72,7 +80,9 @@ Mon parcours est guidé par une conviction : **un bon ingénieur doit comprendre
 * **Communication de terrain :** Mon passé en relation client est un atout majeur pour la cybersécurité, notamment pour la sensibilisation des utilisateurs et la gestion de crises.
 * **Apprentissage Continu :** Je transforme chaque défi en opportunité d'apprentissage, comme le prouvent mes certifications récentes en Cloud et Cybersécurité.
 
+
 ---
+
 
 ## 🎓 Certifications & Diplômes
 
